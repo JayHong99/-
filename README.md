@@ -8,4 +8,5 @@
 
 |순번|일자|연습 폴더|연습 내용|비고|
 |---|---|---|---|---|
-|1|2022.01.20|MNIST|MLP Classifier 구축||
+|1|2022.01.19|MNIST|MLP Classifier 구축||
+|2|2022.01.20|MNIST|Autoen Encoder 구현||
