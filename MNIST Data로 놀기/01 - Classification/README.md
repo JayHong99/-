@@ -1,4 +1,4 @@
-# MLP Classifier
+# Classification
 
 ## Computer Vision
 
