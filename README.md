@@ -9,8 +9,8 @@
 
 |순번|일자|연습 폴더|연습 내용|비고|
 |---|---|---|---|---|
-|1|2022.01.19|MNIST|MLP Classifier 구현||
-|2|2022.01.20|MNIST|Auto Encoder 구현||
-|3|2022.01.21|MNIST|VAE 구현||
-|4|2022.01.24|Fashion-MNIST|MLP Classifier 구현||
-|5|2022.01.24|Fahison-MNIST|Auto Encoder 구현||
+|1|2022.01.19|MNIST|MLP Classifier 구현|TF & Torch|
+|2|2022.01.20|MNIST|Auto Encoder 구현|TF & Torch|
+|3|2022.01.21|MNIST|VAE 구현|Torch|
+|4|2022.01.24|Fashion-MNIST|MLP Classifier 구현|Torch|
+|5|2022.01.24|Fahison-MNIST|Auto Encoder 구현|Torch|
