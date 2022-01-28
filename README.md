@@ -14,3 +14,4 @@
 |3|2022.01.21|MNIST|VAE 구현|Torch|
 |4|2022.01.24|Fashion-MNIST|MLP Classifier 구현|Torch|
 |5|2022.01.24|Fahison-MNIST|Auto Encoder 구현|Torch|
+|6|2022.01.29|Fahison-MNIST|Variational Auto Encoder 구현|Torch|
