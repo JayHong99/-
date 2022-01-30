@@ -9,9 +9,10 @@
 
 |순번|일자|연습 폴더|연습 내용|Frameworks|
 |---|---|---|---|---|
-|1|2022.01.19|MNIST|MLP Classifier 구현|TF & Torch|
-|2|2022.01.20|MNIST|Auto Encoder 구현|TF & Torch|
-|3|2022.01.21|MNIST|VAE 구현|Torch|
-|4|2022.01.24|Fashion-MNIST|MLP Classifier 구현|Torch|
-|5|2022.01.24|Fahison-MNIST|Auto Encoder 구현|Torch|
-|6|2022.01.29|Fahison-MNIST|Variational Auto Encoder 구현|Torch|
+|1|2022.01.19|CV/MNIST|MLP Classifier 구현|TF & Torch|
+|2|2022.01.20|CV/MNIST|Auto Encoder 구현|TF & Torch|
+|3|2022.01.21|CV/MNIST|VAE 구현|Torch|
+|4|2022.01.24|CV/Fashion-MNIST|MLP Classifier 구현|Torch|
+|5|2022.01.24|CV/Fahison-MNIST|Auto Encoder 구현|Torch|
+|6|2022.01.29|CV/Fahison-MNIST|Variational Auto Encoder 구현|Torch|
+|7|2022.01.29|NLP/KLUE-NLI|Word Embedding with Sentence Piece|Torch|
