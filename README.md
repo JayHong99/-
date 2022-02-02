@@ -17,3 +17,4 @@
 |6|2022.01.29|CV/Fahison-MNIST|Variational Auto Encoder 구현|Torch|
 |7|2022.01.29|NLP/KLUE-NLI|Sentence Piece W2V|Torch|
 |8|2022.01.30|NLP/KLUE-NLI|Skipgram|Torch|
+|9|2022.02.03|CV/Fashion-MNIST|Deep CNN 구현|Torch|

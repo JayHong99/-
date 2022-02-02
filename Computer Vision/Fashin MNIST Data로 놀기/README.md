@@ -8,3 +8,4 @@
 |01|2022.01.24|2022.01.24|Classification|MLP Classifier 구현|0.8975|
 |02|2022.01.24|2022.01.24|Classification|AE-MLP 구현|0.8928|
 |03|2022.01.29|2022.01.29|Generation|Variational Encoder|248.386490625|
+|04|2022.02.03|2022.02.03|Classification|CNN 구현|0.9176|
