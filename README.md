@@ -18,4 +18,5 @@
 |7|2022.01.29|NLP/KLUE-NLI|Sentence Piece W2V|Torch|
 |8|2022.01.30|NLP/KLUE-NLI|Skipgram|Torch|
 |9|2022.02.03|CV/Fashion-MNIST|VGG16과 유사하도록<br>Deep CNN 구현|Torch|
-|10|2022.02.04|CVFashion-MNIST|Residual Network 구현|Torch|
+|10|2022.02.04|CV/Fashion-MNIST|Residual Network 구현|Torch|
+|11|2022.02.04|CV/Fashion-MNIST|CVAE |Torch|
