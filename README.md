@@ -20,3 +20,4 @@
 |09|2022.02.04|Fashion-MNIST|Convolutional VAE  |Torch|
 |10|2022.02.10|Celeb-A|GAN|Torch|
 |11|2022.02.10|Celeb-A|DCGAN|Torch|
+|12|2022.02.10|Fashion-MNIST|GAN|Torch|
