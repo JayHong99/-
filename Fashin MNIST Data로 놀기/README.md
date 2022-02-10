@@ -11,3 +11,4 @@
 |04|2022.02.03|2022.02.03|Classification|CNN 구현|0.9176|
 |05|2022.02.04|2022.02.04|Classification|Residual Network 구현|0.9312|
 |06|2022.02.04|2022.02.04|Generation|Convolutional VAE|5181 loss|
+|07|2022.02.10|2022.02.10|Generation|GAN||
