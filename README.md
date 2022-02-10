@@ -9,12 +9,14 @@
 
 |순번|일자|연습 폴더|연습 내용|Frameworks|
 |---|---|---|---|---|
-|01|2022.01.19|CV/MNIST|MLP Classifier 구현|TF & Torch|
-|02|2022.01.20|CV/MNIST|Auto Encoder 구현|TF & Torch|
-|03|2022.01.21|CV/MNIST|VAE 구현|Torch|
-|04|2022.01.24|CV/Fashion-MNIST|MLP Classifier 구현|Torch|
-|05|2022.01.24|CV/Fahison-MNIST|Auto Encoder 구현|Torch|
-|06|2022.01.29|CV/Fahison-MNIST|Variational Auto Encoder 구현|Torch|
-|07|2022.02.03|CV/Fashion-MNIST|VGG16과 유사하도록<br>Deep CNN 구현|Torch|
-|08|2022.02.04|CV/Fashion-MNIST|Residual Network 구현|Torch|
-|09|2022.02.04|CV/Fashion-MNIST|Convolutional VAE  |Torch|
+|01|2022.01.19|MNIST|MLP Classifier 구현|TF & Torch|
+|02|2022.01.20|MNIST|Auto Encoder 구현|TF & Torch|
+|03|2022.01.21|MNIST|VAE 구현|Torch|
+|04|2022.01.24|Fashion-MNIST|MLP Classifier 구현|Torch|
+|05|2022.01.24|Fahison-MNIST|Auto Encoder 구현|Torch|
+|06|2022.01.29|Fahison-MNIST|Variational Auto Encoder 구현|Torch|
+|07|2022.02.03|Fashion-MNIST|VGG16과 유사하도록<br>Deep CNN 구현|Torch|
+|08|2022.02.04|Fashion-MNIST|Residual Network 구현|Torch|
+|09|2022.02.04|Fashion-MNIST|Convolutional VAE  |Torch|
+|10|2022.02.10|Celeb-A|GAN|Torch|
+|11|2022.02.10|Celeb-A|DCGAN|Torch|
