@@ -21,3 +21,4 @@
 |10|2022.02.10|Celeb-A|GAN|Torch|
 |11|2022.02.10|Celeb-A|DCGAN|Torch|
 |12|2022.02.10|Fashion-MNIST|GAN|Torch|
+|13|2022.02.19|Cycle GAN|Monet2Photo|Torch|
